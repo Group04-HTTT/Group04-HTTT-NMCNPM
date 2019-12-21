@@ -1,0 +1,10 @@
+C:\Users\nguyn\Desktop\se\search\BUS_search\bin\Debug\BUS_search.dll
+C:\Users\nguyn\Desktop\se\search\BUS_search\bin\Debug\BUS_search.pdb
+C:\Users\nguyn\Desktop\se\search\BUS_search\bin\Debug\DAL_search.dll
+C:\Users\nguyn\Desktop\se\search\BUS_search\bin\Debug\DTO_search.dll
+C:\Users\nguyn\Desktop\se\search\BUS_search\bin\Debug\DAL_search.pdb
+C:\Users\nguyn\Desktop\se\search\BUS_search\bin\Debug\DTO_search.pdb
+C:\Users\nguyn\Desktop\se\search\BUS_search\obj\Debug\BUS_search.csprojAssemblyReference.cache
+C:\Users\nguyn\Desktop\se\search\BUS_search\obj\Debug\BUS_search.csproj.CopyComplete
+C:\Users\nguyn\Desktop\se\search\BUS_search\obj\Debug\BUS_search.dll
+C:\Users\nguyn\Desktop\se\search\BUS_search\obj\Debug\BUS_search.pdb

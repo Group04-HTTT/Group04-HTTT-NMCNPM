@@ -1,0 +1,5 @@
+C:\Users\nguyn\Desktop\se\search\DTO_search\bin\Debug\DTO_search.dll
+C:\Users\nguyn\Desktop\se\search\DTO_search\bin\Debug\DTO_search.pdb
+C:\Users\nguyn\Desktop\se\search\DTO_search\obj\Debug\DTO_search.csprojAssemblyReference.cache
+C:\Users\nguyn\Desktop\se\search\DTO_search\obj\Debug\DTO_search.dll
+C:\Users\nguyn\Desktop\se\search\DTO_search\obj\Debug\DTO_search.pdb

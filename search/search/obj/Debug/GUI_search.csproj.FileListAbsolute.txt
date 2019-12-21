@@ -1,0 +1,17 @@
+C:\Users\nguyn\Desktop\se\search\search\bin\Debug\search.exe.config
+C:\Users\nguyn\Desktop\se\search\search\bin\Debug\search.exe
+C:\Users\nguyn\Desktop\se\search\search\bin\Debug\search.pdb
+C:\Users\nguyn\Desktop\se\search\search\bin\Debug\BUS_search.dll
+C:\Users\nguyn\Desktop\se\search\search\bin\Debug\DTO_search.dll
+C:\Users\nguyn\Desktop\se\search\search\bin\Debug\BUS_search.pdb
+C:\Users\nguyn\Desktop\se\search\search\bin\Debug\DTO_search.pdb
+C:\Users\nguyn\Desktop\se\search\search\obj\Debug\GUI_search.csprojAssemblyReference.cache
+C:\Users\nguyn\Desktop\se\search\search\obj\Debug\search.Form1.resources
+C:\Users\nguyn\Desktop\se\search\search\obj\Debug\search.Properties.Resources.resources
+C:\Users\nguyn\Desktop\se\search\search\obj\Debug\GUI_search.csproj.GenerateResource.cache
+C:\Users\nguyn\Desktop\se\search\search\obj\Debug\GUI_search.csproj.CopyComplete
+C:\Users\nguyn\Desktop\se\search\search\obj\Debug\search.exe
+C:\Users\nguyn\Desktop\se\search\search\obj\Debug\search.pdb
+C:\Users\nguyn\Desktop\se\search\search\bin\Debug\DAL_search.dll
+C:\Users\nguyn\Desktop\se\search\search\bin\Debug\DAL_search.pdb
+C:\Users\nguyn\Desktop\se\search\search\obj\Debug\search.ID.resources
