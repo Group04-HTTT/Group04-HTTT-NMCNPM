@@ -1,1 +1,35 @@
 ---Search product
+create proc search_product_default
+	@product_name nvarchar(100),
+	@product_id	int
+as begin
+	select pro.PRODUCT_NAME, pro.PRODUCT_ID, pro.PRODUCT_TYPE_ID, pro.PRODUCT_PRICE
+	from PRODUCT pro 
+	where (pro.PRODUCT_ID = @product_id and pro.PRODUCT_NAME = @product_name)
+end
+go
+
+exec search_product_default N'New South Wales' ,1
+
+create proc search_product_with_name
+	@product_name nvarchar(100)
+as begin
+	select pro.PRODUCT_NAME, pro.PRODUCT_ID, pro.PRODUCT_TYPE_ID, pro.PRODUCT_PRICE
+	from PRODUCT pro 
+	where (pro.PRODUCT_NAME = @product_name)
+end
+go
+exec search_product_with_name N'New South Wales' 
+
+create proc search_product_with_id
+		@product_id	int
+as begin
+	select pro.PRODUCT_NAME, pro.PRODUCT_ID, pro.PRODUCT_TYPE_ID, pro.PRODUCT_PRICE
+	from PRODUCT pro 
+	where (pro.PRODUCT_ID = @product_id)
+end
+go
+exec search_product_with_id 1
+
+select * from PRODUCT
+select pro.PRODUCT_NAME, pro.PRODUCT_ID, pro.PRODUCT_TYPE_ID, pro.PRODUCT_PRICE from PRODUCT pro where pro.PRODUCT_NAME like N'New South Wales'
